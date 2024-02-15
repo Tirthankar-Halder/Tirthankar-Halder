@@ -19,9 +19,7 @@
   <br>
   🔬 I'm currently studying for MS(Research) at Indian Institute of Technology, Kharagpur, G.S.Sanyal School of Telecommunication
   <br>
-  🎓 I graduated from Haldia Institute of Technology, Department of Computer Engineering 
-  <br>
-  🎓 I graduated from Raipur Sri Sri Ramkrishna Amrita Vidyalaya
+  🎓 I graduated from Haldia Institute of Technology, Department of Computer Science and Engineering 
   <br>
   💬 Ask me anything about from <a href="https://github.com/Tirthankar-Halder/Tirthankar-Halder/issues" title="Issues">Here</a>
   <br>
