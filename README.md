@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/tirthankar-halder-2620181b2/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
@@ -17,7 +17,7 @@
   Hi, I'm Tirthankar Halder, Junior Research Assistant & Computer Engineer & Software Developer from India
   <br>
   <br>
-  🔬 I'm currently studying for MS(Research) at Indian Institute of Techology, Kharagpur, G.S.Sanyal School of Telecommunication
+  🔬 I'm currently studying for MS(Research) at Indian Institute of Technology, Kharagpur, G.S.Sanyal School of Telecommunication
   <br>
   🎓 I graduated from Haldia Institute of Technology, Department of Computer Engineering 
   <br>
